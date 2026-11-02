@@ -8,8 +8,6 @@ The project combines large-scale data processing, data preparation, feature engi
 
 **[Explore the Live Streamlit Dashboard](https://ecommerce-delivery-prediction.streamlit.app/)**
 
-*Replace this URL with your actual deployed Streamlit URL after deployment.*
-
 ---
 
 ## 📌 Project Overview

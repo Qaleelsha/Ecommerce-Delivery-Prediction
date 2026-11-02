@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+._*
+
+# Dataset
+dataset/supply_chain.csv
+
+# Spark model and temporary files
+outputs/delivery_model/
+*.crc
+spark-warehouse/
+metastore_db/
+derby.log
+
+# IDE
+.vscode/
